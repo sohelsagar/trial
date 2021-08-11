@@ -1,6 +1,6 @@
  "use strict"
 
-const url = "http://api.openweathermap.org/data/2.5/weather?q=Dhaka&appid=e8815cddc18ba9d1804dfa7fa9211486"
+const url = "https://api.openweathermap.org/data/2.5/weather?q=Dhaka&appid=e8815cddc18ba9d1804dfa7fa9211486"
 
 $.ajax ({
     url: url,
