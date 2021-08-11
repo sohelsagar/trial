@@ -1,0 +1,29 @@
+body {
+    background-color: skyblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.data {
+    margin-left: 20%;
+   
+}
+
+.box {
+    border: 1px solid black;
+    margin-right: 30%;
+    padding: 6px;
+    background-color: lightblue;
+}
+
+h2 {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+    
+
+}
